@@ -1,0 +1,24 @@
+{
+  "name": "styled-spacing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "styled-componentsのspacingを直接デバッガ埋め込んで検証する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/styled-spacing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/styled-spacing/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/styled-spacing#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "styled-components": "^5.2.0"
+  }
+}
