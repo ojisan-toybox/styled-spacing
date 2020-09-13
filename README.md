@@ -1,0 +1,2 @@
+# styled-spacing
+styled-componentsのspacingを直接デバッガ埋め込んで検証する
